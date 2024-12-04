@@ -12,6 +12,7 @@
 
 # Bench Press 
 - 用Smith Machine 
+- 注意台是否在中间
 
 # Dumbbell Fly 
 - 两段
