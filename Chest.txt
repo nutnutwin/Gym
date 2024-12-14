@@ -1,4 +1,5 @@
 # Pec Fly 
+- ★高度调整, 手握的位置 = 肩膀高度
 - 肘部向后
 - 肩部放下
 - 快关慢开
@@ -13,6 +14,7 @@
 # Bench Press 
 - 用Smith Machine 
 - 注意台是否在中间
+- X轴, Y轴, Z在第三格
 
 # Dumbbell Fly 
 - 两段
