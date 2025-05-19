@@ -1,0 +1,2 @@
+Machine 力度一致但是不贴身体
+Dumbbell 贴单但是力度不一致
