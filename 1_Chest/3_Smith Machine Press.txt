@@ -1,6 +1,0 @@
-
-
-# Bench Press 
-- 用Smith Machine 
-- 注意台是否在中间
-- X轴, Y轴, Z在第三格
